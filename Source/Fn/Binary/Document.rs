@@ -7,6 +7,6 @@ fn main() {
 	let matches = Command::new("📄 Document Land.")
 		.version(env!("CARGO_PKG_VERSION"))
 		.author("Nikola R. Hristov <nikola@nikolahristov.tech>")
-		.about("Build")
+		.about("Build.")
 		.get_matches();
 }
