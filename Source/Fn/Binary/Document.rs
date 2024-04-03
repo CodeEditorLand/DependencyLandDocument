@@ -4,7 +4,7 @@ use clap::{arg, Command};
 use Library::Fn::Cache;
 
 fn main() {
-	let matches = Command::new("📄 Document Land.")
+	let matches = Command::new("📄 Document.")
 		.version(env!("CARGO_PKG_VERSION"))
 		.author("Nikola R. Hristov <nikola@playform.cloud>")
 		.about("Build.")
