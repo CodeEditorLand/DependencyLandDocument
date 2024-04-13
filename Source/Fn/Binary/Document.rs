@@ -6,7 +6,7 @@ use Library::Fn::Cache;
 fn main() {
 	let matches = Command::new("📄 Document")
 		.version(env!("CARGO_PKG_VERSION"))
-		.author("Nikola R. Hristov <nikola@nikolahristov.tech>")
+		.author("Nikola <nikola@playform.cloud>")
 		.about("Build.")
 		.get_matches();
 }
