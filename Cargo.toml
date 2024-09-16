@@ -10,7 +10,7 @@ homepage = "https://Document.Editor.Land"
 license-file = "LICENSE"
 name = "Document"
 publish = false
-repository = "HTTPS://GitHub.Com/CodeEditorLand/CargoMaintain"
+repository = "https://github.com/CodeEditorLand/CargoMaintain"
 version = "0.0.1"
 
 [[bin]]
